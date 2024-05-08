@@ -6,8 +6,7 @@
 
 <h2>Create page component</h2>
 
-````js
-
+```js
 "use client";
 
 const User = ({ params }) => {
@@ -17,7 +16,6 @@ const User = ({ params }) => {
     </div>
   );
 };
-
 ```
 
 <h2>Dynamic url</h2>
@@ -26,4 +24,4 @@ const User = ({ params }) => {
 `localhost/3000/userslist/chandler`
 
 result: Hello there, chandler
-````
+```
