@@ -7,6 +7,7 @@
 <h2>Create page component</h2>
 
 ````js
+
 "use client";
 
 const User = ({ params }) => {
@@ -16,6 +17,8 @@ const User = ({ params }) => {
     </div>
   );
 };
+
+```
 
 <h2>Dynamic url</h2>
 
