@@ -1,1 +1,1 @@
-# Learning NextJs with project
+# Learning NextJs Basics
